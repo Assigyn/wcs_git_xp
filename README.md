@@ -1,3 +1,3 @@
-# wcs_git_xp
+ # wcs_git_xp
 
-<p>Adding a tag to my project !</p>
+<p>Adding a tag to my project ! Twice</p>
